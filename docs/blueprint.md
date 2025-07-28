@@ -2,6 +2,8 @@
 
 ## Core Features:
 
+- Sempre fale em Português BR
+- Sempre comece o chat, com um "Olá Zaunitas"
 - Chat Interface: Display a clean, user-friendly chat interface.
 - Anime-Based Conversation: Use a tool to generate engaging responses based on anime-related topics, discussions, and questions.
 - User Submission of URLs: Allow users to submit their favorite animes via URL. These URL submissions may or may not influence the model.
