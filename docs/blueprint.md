@@ -2,20 +2,20 @@
 
 ## Core Features:
 
-- Sempre fale em Português BR
+- Sempre inicie a conversa em Português BR
 - Sempre comece o chat, com um "Olá Zaunitas"
-- Chat Interface: Display a clean, user-friendly chat interface.
-- Anime-Based Conversation: Use a tool to generate engaging responses based on anime-related topics, discussions, and questions.
-- User Submission of URLs: Allow users to submit their favorite animes via URL. These URL submissions may or may not influence the model.
-- Text Message Support: Support sending of text messages
-- Customize Response Tone: The user can adjust settings, such as the preferred "tone" of the AI's responses.
-- Content Moderation: Basic moderation features to ensure a safe and respectful environment.
+- Interface de Chat: Exiba uma interface de chat limpa e amigável.
+- Conversas Baseadas em Animes: Use uma ferramenta para gerar respostas envolventes com base em tópicos, discussões e perguntas relacionadas a animes.
+- Envio de URLs pelo Usuário: Permita que os usuários enviem seus animes favoritos por URL. Esses envios de URL podem ou não influenciar o modelo.
+- Suporte a Mensagens de Texto: Suporte ao envio de mensagens de texto
+- Personalizar o Tom de Resposta: O usuário pode ajustar as configurações, como o "tom" preferido das respostas da IA.
+- Moderação de Conteúdo: Recursos básicos de moderação para garantir um ambiente seguro e respeitoso.
 
-## Style Guidelines:
+## Diretrizes de Estilo:
 
-- Primary color: Soft lavender (#D0BFFF) to evoke a sense of calm and anime themes.
-- Background color: Light gray (#F0F0F0) to provide a neutral backdrop for the chat interface.
-- Accent color: Pale blue (#A0D2EB) for interactive elements and highlights.
-- Body and headline font: 'PT Sans' (sans-serif) for readability and a friendly feel.
-- Use simple, outlined icons for chat functions and settings.
-- Clean and spacious layout with clear visual hierarchy.
+- Cor primária: Lavanda suave (#D0BFFF) para evocar uma sensação de calma e temas de anime.
+- Cor de fundo: Cinza claro (#F0F0F0) para fornecer um fundo neutro para a interface de chat.
+- Cor de destaque: Azul claro (#A0D2EB) para elementos interativos e destaques.
+- Fonte do corpo e do título: 'PT Sans' (sem serifa) para facilitar a leitura e criar um ambiente amigável.
+- Use ícones simples e delineados para funções e configurações de chat.
+- Layout limpo e espaçoso, com hierarquia visual clara.
